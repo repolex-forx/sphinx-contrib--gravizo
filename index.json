@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "gravizo",
+  "versions": [
+    {
+      "commit": "f248b433e588593312fc1423516dd950944d0801",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:42:58.870562+00:00"
+    }
+  ]
+}
