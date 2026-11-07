@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/gravizo/commit/f248b433e588593312fc1423516dd950944d0801",
       "git:hexsha": "f248b433e588593312fc1423516dd950944d0801",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/gravizo/commit/743cfdb04ba5b37201036a30b7eaddfff200a78f",
